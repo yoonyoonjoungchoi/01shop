@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/model2/mvc/framework/ActionServlet.java=UTF-8
+encoding//src/main/java/com/model2/mvc/framework/RequestMapping.java=MS949
+encoding//src/main/java/com/model2/mvc/service/user/dao/UserDAO.java=MS949
+encoding//src/main/java/com/model2/mvc/view/user/LoginAction.java=UTF-8
+encoding/<project>=x-windows-949
